@@ -29,12 +29,15 @@ table {
     border-collapse: collapse;
 }
 
-tr,th,td{
+tr,
+th,
+td {
     border: 1px grey solid;
     text-align: center;
     padding: 5px;
 }
-tr:nth-child(even){
+
+tr:nth-child(even) {
     background-color: #353434;
 }
 
