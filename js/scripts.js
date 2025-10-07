@@ -5,7 +5,7 @@ const products = [
         id: 1,
         name: "RTX 2080 Phantom Edition",
         price: 3999.90,
-        image: "image/Rtx 2080 Phantom.avif"
+        image: "image/rtx 2080 phantom.avif"
     },
     {
         id: 2,
