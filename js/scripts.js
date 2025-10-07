@@ -4,74 +4,74 @@ const products = [
     {
         id: 1,
         name: "RTX 2080 Phantom Edition",
-        price: 599.99,
-        image: "image/rtx/Rtx 2080 Phantom.avif"
+        price: 3999.90,
+        image: "image/Rtx 2080 Phantom.avif"
     },
     {
         id: 2,
         name: "RTX 2080",
-        price: 349.99,
-        image: "image/rtx/rtx 2080.avif"
+        price: 999.90,
+        image: "image/rtx 2080.avif"
     },
     {
         id: 3,
         name: "RTX 4060",
-        price: 129.99,
-        image: "image/rtx/rtx 4060.avif"
+        price: 1999.90,
+        image: "image/rtx 4060.avif"
     },
     {
         id: 4,
         name: "RTX 5060 Ti Ventus",
-        price: 79.99,
-        image: "image/rtx/rtx 5060 ti ventus.avif"
+        price: 3299.90,
+        image: "image/rtx 5060 ti ventus.avif"
     },
     {
         id: 5,
         name: "ARC A310",
-        price: 45.99,
-        image: "image/arc/arc a310.avif"
+        price: 499.90,
+        image: "image/arc a310.avif"
     },
     {
         id: 6,
         name: "ARC B580 Titan Edition",
-        price: 29.99,
-        image: "image/arc/arc b580 titan .avif"
+        price: 1799.90,
+        image: "image/arc b580 titan .avif"
     },
     {
         id: 7,
         name: "ARC B580 Titan Luna Edition",
-        price: 799.99,
-        image: "image/arc/arc b580 titan luna.avif"
+        price: 1599.90,
+        image: "image/arc b580 titan luna.avif"
     },
     {
         id: 8,
         name: "Intel ARC B580",
-        price: 799.99,
-        image: "image/arc/arc b580.avif"
+        price: 1999.90,
+        image: "image/arc b580.avif"
     },
     {
         id: 9,
         name: "Radeon RX 580",
-        price: 799.99,
-        image: "image/rx/rx 580 streaky.avif"
+        price: 599.90,
+        image: "image/rx 580 streaky.avif"
     },
     {
         id: 10,
         name: "Radeon RX 6600 LE STREAKY",
-        price: 799.99,
-        image: "image/rx/rx 6600 le streaky.avif"
+        price: 799.90,
+        image: "image/rx 6600 le streaky.avif"
     },
     {
         id: 11,
         name: "Radeon RX 9060 XT Dual White",
-        price: 799.99,
-        image: "image/rx/rx 9060 xt dual white.avif"
+        price: 1699.90,
+        image: "image/rx 9060 xt dual white.avif"
     },
     {
         id: 12,
         name: "Radeon RX 9070 Reaper Edition",
-        price: 799.99,
-        image: "image/rx/rx 9070 reaper.avif"
+        price: 4499.90,
+        image: "image/rx 9070 reaper.avif"
     },
 ];
 
