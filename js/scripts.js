@@ -238,3 +238,4 @@ overlay.addEventListener('click', () => {
     cartSidebar.classList.remove('active');
     overlay.classList.remove('active');
 });
+
