@@ -3,75 +3,75 @@
 const products = [
     {
         id: 1,
-        name: "RTX 2080 Phantom Edition",
-        price: 3999.90,
-        image: "image/rtx 2080 phantom.avif"
+        name: "A-10 Warthog ",
+        price: 10000000,
+        image: "image/a10.avif"
     },
     {
         id: 2,
-        name: "RTX 2080",
-        price: 999.90,
-        image: "image/rtx 2080.avif"
+        name: "Embraer EMB-314",
+        price: 15000000,
+        image: "image/emb314.avif"
     },
     {
         id: 3,
-        name: "RTX 4060",
-        price: 1999.90,
-        image: "image/rtx 4060.avif"
+        name: "F-22 Raptor",
+        price: 300000000,
+        image: "image/f22.avif"
     },
     {
         id: 4,
-        name: "RTX 5060 Ti Ventus",
-        price: 3299.90,
-        image: "image/rtx 5060 ti ventus.avif"
+        name: "F-35 Lightning II",
+        price: 70000000,
+        image: "image/f35.avif"
     },
     {
         id: 5,
-        name: "ARC A310",
-        price: 499.90,
-        image: "image/arc a310.avif"
+        name: "F-14 Tomcat",
+        price: 230000000,
+        image: "image/f14.avif"
     },
     {
         id: 6,
-        name: "ARC B580 Titan Edition",
-        price: 1799.90,
-        image: "image/arc b580 titan .avif"
+        name: "F-104 Starfighter",
+        price: 15000000,
+        image: "image/f104.avif"
     },
     {
         id: 7,
-        name: "ARC B580 Titan Luna Edition",
-        price: 1599.90,
-        image: "image/arc b580 titan luna.avif"
+        name: "J-36",
+        price: 90000000,
+        image: "image/j36.avif"
     },
     {
         id: 8,
-        name: "Intel ARC B580",
-        price: 1999.90,
-        image: "image/arc b580.avif"
+        name: "Saab JAS 39 Gripen ",
+        price: 10000000,
+        image: "image/jas39.avif"
     },
     {
         id: 9,
-        name: "Radeon RX 580",
-        price: 599.90,
-        image: "image/rx 580 streaky.avif"
+        name: "Sukhoi Su-57",
+        price: 60000000,
+        image: "image/su57.avif"
     },
     {
         id: 10,
-        name: "Radeon RX 6600 LE STREAKY",
-        price: 799.90,
-        image: "image/rx 6600 le streaky.avif"
+        name: "Eurofighter Typhoon",
+        price: 85000000,
+        image: "image/typhoon.avif"
     },
     {
         id: 11,
-        name: "Radeon RX 9060 XT Dual White",
-        price: 1699.90,
-        image: "image/rx 9060 xt dual white.avif"
+        name: "Tupolev TU-160",
+        price: 300000000,
+        image: "image/tu160.avif"
     },
     {
         id: 12,
-        name: "Radeon RX 9070 Reaper Edition",
-        price: 4499.90,
-        image: "image/rx 9070 reaper.avif"
+        name: "Embraer C-390 Millenium",
+        price: 140000000,
+        image: "image/kc390.avif"
     },
 ];
 
