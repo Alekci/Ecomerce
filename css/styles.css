@@ -88,7 +88,7 @@ tr:nth-child(even) {
 
 .logo span {
 
-    color: #BFA760;
+    color: #887743;
 
 }
 
@@ -128,7 +128,7 @@ nav ul li a {
 
 nav ul li a:hover {
 
-    color: #974AB5;
+    color: #887743;
 
 }
 
@@ -194,19 +194,22 @@ nav ul li a:hover {
 
 
 
+
+
 .hero h1 {
 
     font-size: 2.5rem;
 
     margin-bottom: 1rem;
 
-    color: #BFA760;
+    color: #887743;
 
 }
 
 
 
 .hero p {
+
 
     font-size: 1.2rem;
 
@@ -224,7 +227,7 @@ nav ul li a:hover {
 
     background-color: rgb(24, 26, 27);
 
-    color: #974AB5;
+    color: #887743;
 
     padding: 0.8rem 1.5rem;
 
@@ -272,7 +275,7 @@ nav ul li a:hover {
 
     font-size: 2rem;
 
-    color: #b07bad;
+    color: #FFFFF0;
 
 }
 
@@ -322,7 +325,7 @@ nav ul li a:hover {
 
     height: 200px;
 
-    object-fit: cover;
+    object-fit: contain;
 
 }
 
@@ -342,7 +345,7 @@ nav ul li a:hover {
 
     margin-bottom: 0.5rem;
 
-    color: #b07bad;
+    color: #FFFFF0;
 
 }
 
@@ -354,7 +357,7 @@ nav ul li a:hover {
 
     font-weight: 700;
 
-    color: #974AB5;
+    color: #887743;
 
     margin-bottom: 1rem;
 
@@ -368,7 +371,7 @@ nav ul li a:hover {
 
     padding: 0.7rem;
 
-    background-color: #974AB5;
+    background-color: #887743;
 
     color: white;
 
@@ -388,7 +391,7 @@ nav ul li a:hover {
 
 .add-to-cart:hover {
 
-    background-color: #974AB5;
+    background-color: #887743;
 
 }
 
@@ -528,7 +531,7 @@ nav ul li a:hover {
 
 .cart-item-price {
 
-    color: #974AB5;
+    color: #887743;
 
     font-weight: 600;
 
@@ -572,7 +575,7 @@ nav ul li a:hover {
 
     padding: 1rem;
 
-    background-color: #2ecc71;
+    background-color: #887743;
 
     color: white;
 
@@ -633,11 +636,11 @@ nav ul li a:hover {
 
 footer {
 
-    background-color: #974ABD;
+    background-color: #6e6138;
 
     color: white;
 
-    padding: 3rem 2rem;
+    padding: 2rem 1.5rem;
 
     text-align: center;
 
